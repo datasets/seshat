@@ -1,10 +1,20 @@
 ---
 type: dataset
+homepage: https://seshatdatabank.info
+tags:
+  - topic-history
+  - data-on-github
+  - license-nc
+  - license-confused
 ---
 
 # Seshat: Global History Databank
 
 Seshat is a historical database that collects what is currently known about the social and political organization of human societies over time. Founded in 2011.
+
+🔗 https://seshat-db.com
+
+Related info site: https://seshatdatabank.info
 
 ![image](https://github.com/datasets/seshat/assets/180658/62c4099c-9b93-4838-8045-ba2a17340d00)
 
@@ -12,13 +22,15 @@ Seshat is a historical database that collects what is currently known about the 
 
 Data is available for download 🎉 but not openly licensed (NC restriction) 😬
 
+Have cached copies of files in [`data` folder](./data/).
+
 ![image](https://github.com/datasets/seshat/assets/180658/4d4c75ce-928f-40ed-b80f-f7572f669461)
 
 ### Equinox
 
 Equinox is consolidated database with a snapshot of everything they have (roughly)
 
-Equinox file is downloadable from zenodo: https://doi.org/10.5281/zenodo.6642229
+Equinox file is downloadable from zenodo: https://doi.org/10.5281/zenodo.6642229 and also on github 🎉 https://github.com/seshatdb/Equinox_Data
 
 > Second, we periodically publish “snapshots” of the Seshat Databank for well-curated variables and polities. The current such data release is Equinox-2020, which presents data in both browsable format and through a spreadsheet. Whereas the spreadsheet contains data in computer-readable form suitable for statistical analyses, Seshat Data Browser also includes narrative paragraphs, explaining the codes, as well as references. Equinox-2020 is forward looking and brings together all data upon which the next series of forthcoming publications is based. This approach allows our collaborators and other domain experts to browse our data and suggest improvements.
 
@@ -102,3 +114,9 @@ Evidence from https://seshat-db.com/downloads_page/ (2024-06-30)
 > This research employed data from the Seshat Databank (seshatdatabank.info) under Creative Commons Attribution Non-Commercial (CC By-NC SA) licensing. The Equinox dataset is an openly accessible file stored on Zenodo under the doi: https://doi.org/10.5281/zenodo.6642229.
 
 NB: irony that they refer to a bunch of their datasets as open access but these are NC.
+
+### Confused licensing
+
+Weirdly the Github version of the SeshatDB data https://github.com/seshatdb/Equinox_Data has a CC Zero in [`LICENSE` file](https://github.com/seshatdb/Equinox_Data/blob/ce30ebd92eccff181556861c30b29fc1db99d9b7/LICENSE) but about info on Github page states otherwise ...
+
+![image](https://github.com/datasets/seshat/assets/180658/57a8cbb1-3fb1-4c04-af71-a90d8b2be27a)
