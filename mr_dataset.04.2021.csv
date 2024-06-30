@@ -1,0 +1,349 @@
+NGA,PolID,Start,End,Dupl,primary,certain,broad,targeted,ruler,elite,commoners,afterlife,thislife,agency,disputed,expert,infA,MSP,MSP_sum,minMSP
+Latium,ItLatCA,-3600,-1801,n,0,0,0,1,1,1,1,NA,1,1,no,checked,1,0.125,4,1
+Latium,ItLatBA,-1800,-1001,n,0,0,0,1,1,1,1,NA,1,1,no,checked,1,0.125,4,1
+Latium,ItLatIA,-1000,-717,n,0,0,0,1,1,1,1,NA,1,1,no,checked,1,0.125,4,1
+Latium,ItRomRg,-716,-510,n,0,0,0,1,1,1,1,NA,1,1,no,checked,1,0.125,4,1
+Latium,ItRomER,-509,-265,n,0,0,0,1,1,1,1,NA,1,1,no,checked,0,0.125,4,1
+Latium,ItRomMR,-264,-134,n,0,0.5,0,1,1,1,1,1,1,1,no,checked,0,0.1875,4.5,1
+Latium,ItRomLR,-133,-29,n,0,0.5,0,1,1,1,1,1,1,1,no,checked,0,0.1875,4.5,1
+Latium,ItRomPr,-31,283,n,0,0.5,0,1,1,1,1,1,1,1,no,checked,0,0.1875,4.5,1
+Latium,ItRomWe,395,457,n,1,1,1,1,1,0.5,0.5,1,1,1,no,checked,0,0.5625,6,1
+Latium,ItOstrg,493,554,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Latium,ItRav**,568,710,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Latium,ItStPet,711,903,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Latium,ItPapEM,904,1197,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Latium,ItPapHM,1198,1308,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Latium,ItPapRn,1378,1526,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Latium,ItPapM1,1527,1647,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Latium,ItPapM2,1648,1800,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Paris Basin,FrBeakr,-3200,-2201,n,0,NA,0,1,1,1,1,NA,1,1,no,checked,1,0.1875,4.5,1
+Paris Basin,FrAtlBA,-2200,-1001,n,0,NA,0,1,1,1,1,NA,1,1,no,checked,1,0.1875,4.5,1
+Paris Basin,FrHallA,-1000,-901,n,0,NA,0,1,1,1,1,NA,1,1,no,checked,1,0.1875,4.5,1
+Paris Basin,FrHallB,-900,-701,n,0,NA,0,1,1,1,1,NA,1,1,no,checked,1,0.1875,4.5,1
+Paris Basin,FrHallC,-700,-601,n,0,NA,0,1,1,1,1,NA,1,1,no,checked,1,0.1875,4.5,1
+Paris Basin,FrHallD,-600,-475,n,0,NA,0,1,1,1,1,NA,1,1,no,checked,1,0.1875,4.5,1
+Paris Basin,FrTeneA,-474,-325,n,0,NA,0,1,1,1,1,NA,1,1,no,checked,1,0.1875,4.5,1
+Paris Basin,FrTeneB,-324,-175,n,0,0,0,1,1,1,1,0,1,1,no,checked,1,0.125,4,1
+Paris Basin,FrTeneC,-174,-27,n,0,0,0,1,1,1,1,0,1,1,no,checked,1,0.125,4,1
+Paris Basin,FrMervE,481,542,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Paris Basin,FrMervM,543,686,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Paris Basin,FrMervL,687,750,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Paris Basin,FrCarlE,752,839,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Paris Basin,FrCarlL,840,986,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Paris Basin,FrCaptE,987,1149,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Paris Basin,FrCaptL,1150,1327,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Paris Basin,FrValoE,1328,1449,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Paris Basin,FrValoL,1450,1588,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Paris Basin,FrBurbE,1589,1659,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Paris Basin,FrBurbL,1660,1788,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Iceland,IsCommw,930,1000,n,0,0,0,1,1,1,1,1,1,1,no,checked,0,0.125,4,1
+Iceland,IsCommw,1001,1261,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Iceland,NorKing,1262,1380,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Upper Egypt,EgBadar,-4400,-3801,n,0.5,0.5,0.5,NA,0.5,0.5,NA,0.5,NA,NA,no,checked,0,0.133483887,3.5,1
+Upper Egypt,EgNaqa1,-3800,-3551,n,0.5,0.5,0.5,NA,0.5,0.5,NA,0.5,NA,NA,no,checked,0,0.133483887,3.5,1
+Upper Egypt,EgNaqa2,-3550,-3301,n,0.5,0.5,0.5,NA,0.5,0.5,NA,0.5,NA,NA,no,checked,0,0.133483887,3.5,1
+Upper Egypt,EgNaqa3,-3300,-3101,n,0.5,0.5,0.5,NA,0.5,0.5,NA,0.5,NA,1,no,checked,0,0.133483887,3.5,1
+Upper Egypt,EgDyn1*,-3100,-2901,n,0.5,0.5,0.5,NA,0.5,0.5,NA,0.5,NA,1,no,checked,0,0.133483887,3.5,1
+Upper Egypt,EgDyn2*,-2900,-2651,n,1,0.5,1,NA,0.5,0.5,NA,0.5,NA,1,no,checked,0,0.237304688,4.5,1
+Upper Egypt,EgOldK1,-2650,-2351,n,1,0.5,1,NA,0.5,0.5,NA,0.5,NA,1,no,checked,0,0.237304688,4.5,1
+Upper Egypt,EgOldK2,-2350,-2151,n,1,0.5,1,1,0.5,1,NA,1,1,1,no,checked,0,0.421875,5.5,1
+Upper Egypt,EgRegns,-2150,-2017,n,1,0.5,1,1,0.5,1,NA,1,1,1,no,checked,0,0.421875,5.5,1
+Upper Egypt,EgMidKg,-2016,-1721,n,1,0.5,1,1,1,1,NA,1,1,1,no,checked,0,0.5625,6,1
+Upper Egypt,EgThebH,-1720,-1567,n,1,0.5,1,1,1,1,0.5,1,1,1,no,checked,0,0.5625,6,1
+Upper Egypt,EgNKThu,-1550,-1294,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Upper Egypt,EgNKRam,-1293,-1071,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Upper Egypt,EgThebL,-1070,-761,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Upper Egypt,SdKusht,-760,-656,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Upper Egypt,EgSaite,-655,-526,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Upper Egypt,EgIntOc,-404,-343,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Upper Egypt,EgPtol1,-305,-218,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Upper Egypt,EgPtol2,-217,-32,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Upper Egypt,EgTulIk,868,969,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Upper Egypt,TnFatim,970,1170,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Upper Egypt,EgAyyub,1171,1259,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Upper Egypt,EgMamBh,1260,1347,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Upper Egypt,EgMamCP,1348,1411,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Upper Egypt,EgMamBu,1412,1516,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Inland Niger Delta,MlJeJe1,-250,49,n,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,checked,0,NA,NA,NA
+Inland Niger Delta,MlJeJe2,50,399,n,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,checked,0,NA,NA,NA
+Inland Niger Delta,MlJeJe3,400,899,n,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,checked,0,NA,NA,NA
+Inland Niger Delta,MlJeJe4,900,999,n,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,checked,0,NA,NA,NA
+Inland Niger Delta,MrWagdM,1000,1077,n,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,checked,0,NA,NA,NA
+Inland Niger Delta,MrWagdL,1100,1202,n,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,1,no,checked,0,0.133483887,3.5,1
+Inland Niger Delta,MlMali*,1235,1410,n,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,1,no,checked,0,0.133483887,3.5,1
+Inland Niger Delta,MlSong2,1493,1590,n,1,1,1,1,1,1,0.5,1,1,1,no,checked,0,0.75,6.5,1
+Inland Niger Delta,MaSaadi,1591,1618,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Inland Niger Delta,MlSegou,1640,1711,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Inland Niger Delta,MlBaman,1712,1818,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Ghanaian Coast,GhAshnE,1501,1701,n,0,0,1,1,1,1,1,1,1,1,no,checked,1,0.25,5,1
+Ghanaian Coast,GhAshnL,1702,1895,n,0,0,1,1,1,1,1,1,1,1,no,checked,1,0.25,5,1
+Ghanaian Coast,GbEmpir,1895,1914,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Southern Mesopotamia,IqSoNeo,-9000,-5501,n,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,checked,0,NA,NA,NA
+Southern Mesopotamia,IqUbaid,-5500,-4201,n,0,0,0,0,0,0,0,0,0,NA,no,checked,1,0.0078125,0,0
+Southern Mesopotamia,IqUruk*,-4200,-3000,n,0,0,0,0,0,0,0,0,0,NA,no,checked,1,0.0078125,0,0
+Southern Mesopotamia,IqEDyn*,-2900,-2351,n,0,0,0.5,0.5,0.5,1,0.5,0,1,1,no,checked,1,0.079101563,3,1
+Southern Mesopotamia,IqAkkad,-2350,-2150,n,0,0,1,1,0.5,1,0.5,0,1,1,no,checked,0,0.140625,4,1
+Southern Mesopotamia,IqUrIII,-2112,-2004,n,0,0,1,1,0.5,1,0.5,0,1,1,no,checked,0,0.140625,4,1
+Southern Mesopotamia,IqIsinL,-2003,-1895,n,0,0,1,1,0.5,1,1,0,1,1,no,checked,0,0.1875,4.5,1
+Southern Mesopotamia,IqBabAm,-1894,-1596,n,0,0,1,1,1,1,1,0,1,1,no,checked,0,0.25,5,1
+Southern Mesopotamia,IqBabKs,-1595,-1154,n,0,0,1,1,1,1,1,0,1,1,no,checked,0,0.25,5,1
+Southern Mesopotamia,IqIsin2,-1153,-1027,n,0,0,1,1,1,1,1,0,1,1,no,checked,0,0.25,5,1
+Southern Mesopotamia,IqBazi*,-1005,-980,n,0,0,1,1,1,1,1,0,1,1,no,checked,0,0.25,5,1
+Southern Mesopotamia,IqDynE*,-979,-732,n,0,0,1,1,1,1,1,0,1,1,no,checked,0,0.25,5,1
+Southern Mesopotamia,IqNAssr,-729,-627,n,0,0,1,1,1,1,1,0,1,1,no,checked,0,0.25,5,1
+Southern Mesopotamia,IqNeoBb,-626,-540,n,0,0,1,1,1,1,1,0,1,1,no,checked,0,0.25,5,1
+Southern Mesopotamia,IrPart2,41,219,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Southern Mesopotamia,SyCalUm,661,749,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Southern Mesopotamia,IqAbbs1,750,946,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Southern Mesopotamia,IqAbbs2,1191,1207,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Susiana,IrPrCer,-7800,-7201,n,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,checked,0,NA,NA,NA
+Susiana,IrForma,-7200,-7001,n,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,checked,0,NA,NA,NA
+Susiana,IrArcha,-7000,-6001,n,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,checked,0,NA,NA,NA
+Susiana,IrKhzE*,-6000,-5701,n,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,checked,0,NA,NA,NA
+Susiana,IrKhzEM,-5700,-5101,n,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,checked,0,NA,NA,NA
+Susiana,IrKhzM*,-5100,-4701,n,0,0,0,0,0,0,0,0,0,0,no,checked,1,0.0078125,0,0
+Susiana,IrKhzL*,-4700,-4301,n,0,0,0,0,0,0,0,0,0,0,no,checked,1,0.0078125,0,0
+Susiana,IrSusa1,-4300,-3801,n,0,0,0,0,0,0,0,0,0,0,no,checked,1,0.0078125,0,0
+Susiana,IrSusa2,-3800,-3101,n,0,0,0,0,0,0,0,0,0,0,no,checked,1,0.0078125,0,0
+Susiana,IrSusa3,-3100,-2676,n,0,0,0,0,0,0,0,0,0,0,no,checked,1,0.0078125,0,0
+Susiana,IrAwanE,-2675,-2251,n,0,0,0.5,0,1,0.5,0,0,1,1,no,checked,0,0.03515625,2,1
+Susiana,IrShima,-2028,-1901,n,0,0,1,1,1,1,1,0,1,1,no,checked,0,0.25,5,1
+Susiana,IrSukkE,-1900,-1701,n,0,0,1,1,1,1,1,0,1,1,no,checked,0,0.25,5,1
+Susiana,IrSukkL,-1700,-1501,n,0,0,1,1,1,1,1,0,1,1,no,checked,0,0.25,5,1
+Susiana,IrMElm1,-1500,-1401,n,0,0,1,1,1,1,1,0,1,1,no,checked,0,0.25,5,1
+Susiana,IrMElm2,-1400,-1201,n,0,0,1,1,1,1,1,0,1,1,no,checked,0,0.25,5,1
+Susiana,IrMElm3,-1200,-1101,n,0,0,1,1,1,1,1,0,1,1,no,checked,0,0.25,5,1
+Susiana,IrElmCP,-1100,-901,n,0,0,1,1,1,1,1,0,1,1,no,checked,0,0.25,5,1
+Susiana,IrNElm1,-900,-744,n,0,0,1,1,1,1,1,0,1,1,no,checked,0,0.25,5,1
+Susiana,IrNElm2,-743,-647,n,0,0,1,1,1,1,1,0,1,1,no,checked,0,0.25,5,1
+Susiana,IrNElm3,-612,-540,n,0,0,1,1,1,1,1,0,1,1,no,checked,0,0.25,5,1
+Susiana,IrAchae,-539,-331,n,1,1,1,1,1,1,0,1,1,1,no,checked,0,0.5,6,1
+Susiana,IrSeleu,-312,-144,n,0.5,0.5,1,1,1,1,1,1,1,1,no,checked,0,0.5625,6,1
+Susiana,IrPart1,-143,24,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Susiana,IrElym2,25,215,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Susiana,IrSasn1,220,498,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Susiana,IrSasn2,499,642,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Susiana,IrBuyid,947,1055,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Susiana,IrSeljq,1056,1190,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Susiana,IrIlkhn,1263,1335,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Susiana,IrAkKoy,1471,1504,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Susiana,IrSafvd,1505,1722,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Susiana,IrQajar,1794,1925,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Konya Plain,TrNeoER,-9600,-7001,n,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,checked,0,NA,NA,NA
+Konya Plain,TrNeoCR,-7000,-6601,n,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,checked,0,NA,NA,NA
+Konya Plain,TrNeoLT,-6600,-6001,n,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,checked,0,NA,NA,NA
+Konya Plain,TrClcER,-6000,-5001,n,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,checked,0,NA,NA,NA
+Konya Plain,TrClcLT,-5000,-3001,n,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,checked,0,NA,NA,NA
+Konya Plain,TrBrzER,-3000,-2001,n,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,checked,0,NA,NA,NA
+Konya Plain,TrBrzMD,-2000,-1700,n,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,checked,0,NA,NA,NA
+Konya Plain,TrHatOK,-1650,-1501,n,0,0,0,1,1,1,NA,0,1,1,no,checked,0,0.09375,3.5,1
+Konya Plain,TrBrzL2,-1500,-1400,n,0,0,0,1,1,1,NA,0,1,1,no,checked,0,0.09375,3.5,1
+Konya Plain,TrHatNK,-1344,-1181,n,0,0,0,1,1,1,NA,0,1,1,no,checked,0,0.09375,3.5,1
+Konya Plain,TrNHitt,-1180,-901,n,0,0,0,1,1,1,NA,0,1,1,no,checked,1,0.09375,3.5,1
+Konya Plain,TrTabal,-900,-837,n,0,0,0,1,1,1,NA,0,1,1,no,checked,1,0.09375,3.5,1
+Konya Plain,TrPhryg,-836,-696,n,0,0,0,1,1,1,NA,0,1,1,no,checked,1,0.09375,3.5,1
+Konya Plain,TrLydia,-670,-547,n,0,0,0,1,1,1,NA,0,1,1,no,checked,1,0.09375,3.5,1
+Konya Plain,TrLysim,-300,-282,n,0,0,0,1,1,1,NA,1,1,1,no,checked,0,0.09375,3.5,1
+Konya Plain,TrCappL,-129,-95,n,0,0,0,1,1,1,1,1,1,1,no,checked,0,0.125,4,1
+Konya Plain,TrRomDm,284,394,n,0.5,0.5,0.5,1,1,1,1,1,1,1,no,checked,0,0.421875,5.5,1
+Konya Plain,TrERom*,395,607,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Konya Plain,TrByzM1,632,866,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Konya Plain,TrByzM2,867,1072,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Konya Plain,TrRum**,1093,1243,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Konya Plain,TrOttm1,1393,1402,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Konya Plain,TrOttm2,1421,1516,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Konya Plain,TrOttm3,1517,1682,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Konya Plain,TrOttm4,1683,1838,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Yemeni Coastal Plain,YeNeoL*,-3500,-1201,n,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,checked,0,NA,NA,NA
+Yemeni Coastal Plain,YeLBA**,-1200,-801,n,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,checked,0,NA,NA,NA
+Yemeni Coastal Plain,YeSabaC,-800,-451,n,0,0,0,0,1,1,1,0,1,0,no,checked,1,0.0625,3,1
+Yemeni Coastal Plain,YeQatab,-450,-111,n,0,0,0,0,1,1,1,0,1,0,no,checked,1,0.0625,3,1
+Yemeni Coastal Plain,YeSaRay,-110,149,n,0,0,0,0,1,1,1,0,1,0,no,checked,1,0.0625,3,1
+Yemeni Coastal Plain,EtAksm1,150,269,n,0,0,0,0,1,1,1,0,1,0,no,checked,1,0.0625,3,1
+Yemeni Coastal Plain,YeHmyr1,270,340,n,0,0,0,0,1,1,1,0,1,0,no,checked,1,0.0625,3,1
+Yemeni Coastal Plain,YeHmyr2,378,525,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Yemeni Coastal Plain,YeZiyad,869,1037,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Yemeni Coastal Plain,YeWarLd,1038,1174,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Yemeni Coastal Plain,YeRasul,1229,1453,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Yemeni Coastal Plain,YeTahir,1454,1517,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Yemeni Coastal Plain,YeQasmi,1637,1805,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Sogdiana,TjSaraz,-3500,-2001,n,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,checked,0,NA,NA,NA
+Sogdiana,KzAndro,-2000,-1401,n,0,0,0,0.5,1,1,1,0,NA,NA,no,checked,1,0.09375,3.5,1
+Sogdiana,UzKok01,-1400,-1000,n,0,0,0,0.5,1,1,1,0,NA,NA,no,checked,1,0.09375,3.5,1
+Sogdiana,UzKhw01,-999,-751,n,0,0,0,0.5,1,1,1,0,NA,NA,no,checked,1,0.09375,3.5,1
+Sogdiana,UzKok02,-750,-600,n,0.5,0.5,0.5,0.5,0.5,1,0,0.5,0.5,1,no,checked,0,0.118652344,3.5,1
+Sogdiana,AfGrBct,-248,-130,n,1,1,1,1,0,1,0.5,1,1,1,no,checked,0,0.375,5.5,1
+Sogdiana,AfTochr,-129,29,n,1,1,1,1,0,1,0.5,1,1,1,no,checked,0,0.375,5.5,1
+Sogdiana,AfKushn,30,230,n,1,1,1,1,1,1,1,1,0,0,no,checked,0,1,7,1
+Sogdiana,AkKidar,388,472,n,1,1,1,1,1,1,1,1,0,0,no,checked,0,1,7,1
+Sogdiana,AfHepht,473,563,n,1,1,1,1,1,1,1,1,0,0,no,checked,0,1,7,1
+Sogdiana,KgWTurk,564,603,n,1,1,1,1,1,1,1,1,0,0,no,checked,0,1,7,1
+Sogdiana,UzSogdi,604,711,n,1,1,1,1,1,1,1,1,0,0,no,checked,0,1,7,1
+Sogdiana,UzSamnd,876,990,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Sogdiana,KgKarKh,991,1212,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Sogdiana,UzChagt,1263,1361,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Sogdiana,UzTimur,1370,1526,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Sogdiana,UzJanid,1599,1747,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Orkhon Valley,MnXngnE,-1400,-300,n,0,0,0,0,0,0,0,0,0,0,no,checked,1,0.0078125,0,0
+Orkhon Valley,MnXngnM,-209,-60,n,0,0,0,0,0,0,0,0,0,0,no,checked,1,0.0078125,0,0
+Orkhon Valley,MnXngnL,-59,99,n,0,0,0,0,0,0,0,0,0,0,no,checked,1,0.0078125,0,0
+Orkhon Valley,MnXianb,100,250,n,0,0,0,0,0,0,0,0,0,0,no,checked,1,0.0078125,0,0
+Orkhon Valley,MnRourn,300,551,n,0,1,1,1,1,1,0,1,1,0,no,checked,1,0.25,5,1
+Orkhon Valley,MnETurk,583,630,n,0,1,1,1,1,1,0,1,1,0,no,checked,1,0.25,5,1
+Orkhon Valley,MnTurk2,684,744,n,0,1,1,1,1,1,0,1,1,0,no,checked,1,0.25,5,1
+Orkhon Valley,MnUigur,745,840,n,1,1,1,1,1,1,0,1,1,1,no,checked,0,0.5,6,1
+Orkhon Valley,MnShiwe,841,907,n,0,0,0,0,0,0,0,0,0,0,no,checked,1,0.0078125,0,0
+Orkhon Valley,MnKhitn,960,1125,n,1,1,1,1,1,1,0,1,1,0,no,checked,0,0.5,6,1
+Orkhon Valley,MnMongE,1126,1205,n,0,0,0,0,0,0,0,0,0,0,no,checked,1,0.0078125,0,0
+Orkhon Valley,MnMngKh,1206,1367,n,0,0,0,0,0,0,0,0,0,0,no,checked,1,0.0078125,0,0
+Orkhon Valley,MnMongL,1368,1580,n,0,0,0,0,0,0,0,0,0,0,no,checked,1,0.0078125,0,0
+Orkhon Valley,MnMongL,1581,1689,n,1,1,1,1,1,1,1,1,1,0,no,checked,0,1,7,1
+Orkhon Valley,MnZungh,1695,1745,n,1,1,1,1,1,1,1,1,1,0,no,checked,0,1,7,1
+Lena River Valley,RuYakuE,1400,1642,n,0,0,0,1,1,1,1,0,1,1,no,checked,0,0.125,4,1
+Lena River Valley,RuYakuL,1643,1900,n,0,0,0,1,1,1,1,0,1,1,no,checked,0,0.125,4,1
+Kachi Plain,PkAcerN,-7500,-5501,n,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,checked,0,NA,NA,NA
+Kachi Plain,PkCeraN,-5500,-4001,n,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,checked,0,NA,NA,NA
+Kachi Plain,PkChalc,-4000,-3201,n,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,checked,0,NA,NA,NA
+Kachi Plain,PkPreUr,-3200,-2501,n,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,checked,0,NA,NA,NA
+Kachi Plain,PkUrbn1,-2500,-2101,n,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,checked,0,NA,NA,NA
+Kachi Plain,PkUrbn2,-2100,-1801,n,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,checked,0,NA,NA,NA
+Kachi Plain,PkPostU,-1800,-1301,n,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,no,checked,0,NA,NA,NA
+Kachi Plain,PkProto,-1300,-551,n,0,0,0.5,1,1,1,0.5,0,NA,1,no,checked,0,0.140625,4,1
+Kachi Plain,InMaury,-303,-194,n,1,1,1,1,1,1,1,1,0,0,no,checked,0,1,7,1
+Kachi Plain,PkIndGr,-145,-96,n,1,1,1,1,1,1,1,1,0,0,no,checked,0,1,7,1
+Kachi Plain,PkSind1,862,1192,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Kachi Plain,AfGhurd,1193,1206,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Kachi Plain,InDelh*,1207,1339,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Kachi Plain,PkSind2,1340,1519,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Kachi Plain,InMugl*,1526,1740,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Kachi Plain,AfDurrn,1748,1826,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Deccan,InDecNL,-2700,-1201,n,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,no,checked,0,NA,NA,NA
+Deccan,InDecIA,-1200,-301,n,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,no,checked,0,NA,NA,NA
+Deccan,InDecKg,-205,-101,n,1,1,1,1,1,1,1,1,0,0,no,checked,0,1,7,1
+Deccan,InSataL,-100,203,n,1,1,1,1,1,1,1,1,0,0,no,checked,0,1,7,1
+Deccan,InVakat,286,400,n,1,1,1,1,1,1,1,1,0,0,no,checked,0,1,7,1
+Deccan,InKadam,451,540,n,1,1,1,1,1,1,1,1,0,0,no,checked,0,1,7,1
+Deccan,InChaBd,541,756,n,1,1,1,1,1,1,1,1,0,0,no,checked,0,1,7,1
+Deccan,InRasht,757,973,n,1,1,1,1,1,1,1,1,0,0,no,checked,0,1,7,1
+Deccan,InChaKl,974,1055,n,1,1,1,1,1,1,1,1,0,0,no,checked,0,1,7,1
+Deccan,InHoysa,1192,1253,n,1,1,1,1,1,1,1,1,0,0,no,checked,0,1,7,1
+Deccan,InKampi,1280,1310,n,1,1,1,1,1,1,1,1,0,0,no,checked,0,1,7,1
+Deccan,InVijay,1337,1646,n,1,1,1,1,1,1,1,1,0,0,no,checked,0,1,7,1
+Deccan,InEInCo,1800,1857,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Deccan,InBritP,1858,1946,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Garo Hills,InGaroE,1775,1867,n,0,0,0,0,0,0,0,0,0,0,no,checked,1,0.0078125,0,0
+Garo Hills,InGaroL,1868,1956,n,0,0,0,0,0,0,0,0,0,0,no,checked,1,0.0078125,0,0
+Cambodian Basin,KhFunaE,225,539,n,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,checked,0,NA,NA,NA
+Cambodian Basin,KhFunaL,540,639,n,0,0,0,0,1,1,0,0,0,0,no,checked,1,0.03125,2,1
+Cambodian Basin,KhChenl,640,801,n,0.5,0.5,0.5,0,1,1,0.5,0.5,0,0,no,checked,0,0.158203125,4,1
+Cambodian Basin,KhAngkE,802,1079,n,1,1,1,0,1,1,1,1,0,0,no,checked,0,0.5,6,1
+Cambodian Basin,KhAngkC,1080,1219,n,1,1,1,0,1,1,1,1,0,0,no,checked,0,0.5,6,1
+Cambodian Basin,KhAngkL,1220,1431,n,1,1,1,0,1,1,1,1,0,0,no,checked,0,0.5,6,1
+Cambodian Basin,KhCambd,1432,1593,n,1,1,1,0,1,1,1,1,0,0,no,checked,0,0.5,6,1
+Cambodian Basin,ThAyuth,1594,1767,n,1,1,1,0,1,1,1,1,0,0,no,checked,0,0.5,6,1
+Cambodian Basin,ThRattn,1782,1873,n,1,1,1,0,1,1,1,1,0,0,no,checked,0,0.5,6,1
+Central Java,IdCJBun,-400,499,n,0,0,0,0,0,0,0,0,0,0,no,checked,1,0.0078125,0,0
+Central Java,IdKalin,500,731,n,1,1,1,1,0.5,0.5,0.5,1,0,0,no,checked,0,0.421875,5.5,1
+Central Java,IdMedng,732,1019,n,1,1,1,1,1,1,1,1,0,0,no,checked,0,1,7,1
+Central Java,IdKedir,1049,1222,n,1,1,1,1,1,1,1,1,0,0,no,checked,0,1,7,1
+Central Java,IdMajap,1291,1518,n,1,1,1,1,1,1,1,1,0,0,no,checked,0,1,7,1
+Central Java,IdMatrm,1568,1703,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Kapuasi Basin,IdBrokE,1650,1841,n,0,0,1,1,1,1,1,0,1,1,no,checked,0,0.25,5,1
+Kapuasi Basin,IdBrokL,1842,1987,n,0,0,1,1,1,1,1,0,1,1,no,checked,0,0.25,5,1
+Middle Yellow River Valley,CnYngsh,-5000,-3001,n,0,0,0,0,0,0,0,0,0,0,no,checked,1,0.0078125,0,0
+Middle Yellow River Valley,CnLngsh,-3000,-1900,n,0,0,0,0,0,0,0,0,0,0,no,checked,1,0.0078125,0,0
+Middle Yellow River Valley,CnErlit,-1850,-1651,n,0,0,0,0,0,0,0,0,0,0,no,checked,1,0.0078125,0,0
+Middle Yellow River Valley,CnErlig,-1650,-1251,n,0,0,0,0,0,0,0,0,0,0,no,checked,1,0.0078125,0,0
+Middle Yellow River Valley,CnShang,-1250,-1046,n,0,0,0,0,0,0,0,0,0,0,no,checked,0,0.0078125,0,0
+Middle Yellow River Valley,CnWZhou,-1045,-795,n,0,0,0,0.5,0.5,0,0,0,1,1,no,checked,0,0.017578125,1,1
+Middle Yellow River Valley,CnJinSA,-794,-489,n,0,0,0,0.5,0.5,0.5,0,0,1,1,no,checked,0,0.026367188,1.5,1
+Middle Yellow River Valley,CnWeiWS,-488,-223,n,0.5,0.5,0.5,0.5,0.5,0.5,0,0,1,1,no,checked,0,0.088989258,3,1
+Middle Yellow River Valley,CnWHan*,-202,9,n,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0,1,1,no,checked,0,0.133483887,3.5,1
+Middle Yellow River Valley,CnEHan*,25,219,n,0.5,0.5,0.5,0.5,1,0.5,0.5,0,1,1,no,checked,0,0.177978516,4,1
+Middle Yellow River Valley,CnErJin,265,317,n,0.5,0.5,0.5,0.5,1,0.5,0.5,0,1,1,no,checked,0,0.177978516,4,1
+Middle Yellow River Valley,CnNWei*,386,557,n,1,1,1,1,0.5,1,0.5,1,1,0,no,checked,0,0.5625,6,1
+Middle Yellow River Valley,CnSui**,581,617,n,1,1,1,1,1,1,0.5,1,1,0,no,checked,0,0.75,6.5,1
+Middle Yellow River Valley,CnTangE,618,762,n,1,1,1,1,1,1,1,1,1,0,no,checked,0,1,7,1
+Middle Yellow River Valley,CnTangL,763,907,n,1,1,1,1,1,1,1,1,1,0,no,checked,0,1,7,1
+Middle Yellow River Valley,CnNSong,960,1126,n,1,1,1,1,1,1,1,1,1,0,no,checked,0,1,7,1
+Middle Yellow River Valley,CnLrJin,1127,1234,n,1,1,1,1,1,1,1,1,1,0,no,checked,0,1,7,1
+Middle Yellow River Valley,CnYuan*,1271,1367,n,1,1,1,1,1,1,1,1,1,0,no,checked,0,1,7,1
+Middle Yellow River Valley,CnMing*,1368,1643,n,1,1,1,1,1,1,1,1,1,0,no,checked,0,1,7,1
+Middle Yellow River Valley,CnQingE,1644,1795,n,1,1,1,1,1,1,1,1,1,0,no,checked,0,1,7,1
+Middle Yellow River Valley,CnQingL,1796,1912,n,1,1,1,1,1,1,1,1,1,0,no,checked,0,1,7,1
+Kansai,JpYayoi,-300,249,n,0,0,0,0,0,0,0,0,0,0,no,no,1,0.0078125,0,0
+Kansai,JpKofun,250,537,n,0,0,0,0,0,0,0,0,0,0,no,no,1,0.0078125,0,0
+Kansai,JpAsuka,538,710,n,1,1,1,1,1,0.5,0,1,0,0,no,no,0,0.375,5.5,1
+Kansai,JpHeian,794,1184,n,1,1,1,1,1,1,0.5,1,0,0,no,no,0,0.75,6.5,1
+Kansai,JpKamak,1185,1333,n,1,1,1,1,1,1,1,1,1,1,no,no,0,1,7,1
+Kansai,JpAshik,1336,1466,n,1,1,1,1,1,1,1,1,1,1,no,no,0,1,7,1
+Kansai,JpSengk,1467,1567,n,1,1,1,1,1,1,1,1,1,1,no,no,0,1,7,1
+Kansai,JpAzMom,1568,1602,n,1,1,1,1,1,1,1,1,1,1,no,no,0,1,7,1
+Kansai,JpTokgw,1603,1868,n,1,1,1,1,1,1,1,1,1,1,no,no,0,1,7,1
+Southern China Hills,CnHQngL,1701,1895,n,0,1,1,1,1,1,1,1,0,0,no,no,0,0.5,6,1
+Southern China Hills,CnHChin,1896,1941,n,0,1,1,1,1,1,1,1,0,0,no,no,0,0.5,6,1
+Big Island Hawaii,Hawaii1,1000,1199,n,0,0,0,0,0,0,1,0,0,0,no,checked,1,0.015625,1,1
+Big Island Hawaii,Hawaii2,1200,1649,n,0,0,0,0,0,0,1,0,0,0,no,checked,1,0.015625,1,1
+Big Island Hawaii,Hawaii3,1650,1777,n,0,0,0,0,0,0,1,0,0,0,no,checked,1,0.015625,1,1
+Big Island Hawaii,USKameh,1778,1819,n,0,0,0,0,0,0,1,0,0,0,no,checked,1,0.015625,1,1
+Oro PNG,PgOrokE,1734,1883,n,0,0,0,0,0,0,0,0,0,0,no,checked,0,0.0078125,0,0
+Oro PNG,PgOrokL,1884,1942,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Chuuk Islands,FmTrukE,1775,1885,n,1,1,0,1,0,1,1,1,1,1,no,checked,0,0.25,5,1
+Chuuk Islands,FmTrukL,1886,1948,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+Valley of Oaxaca,MxTieLa,-1400,-1151,n,0,0,0,0,0,0,0,0,0,0,no,checked,1,0.0078125,0,0
+Valley of Oaxaca,MxSanGu,-1150,-701,n,0,0,0,0,0,0,0,0,0,0,no,checked,1,0.0078125,0,0
+Valley of Oaxaca,MxRosar,-700,-501,n,0,0,0,0,0,0,0,0,0,0,no,checked,1,0.0078125,0,0
+Valley of Oaxaca,MxAlb1E,-500,-301,n,0,0,0,0,0,0,0,0,0,0,no,checked,1,0.0078125,0,0
+Valley of Oaxaca,MxAlb1L,-300,-101,n,0,0,0,0,0,0,0,0,0,0,no,checked,1,0.0078125,0,0
+Valley of Oaxaca,MxAlb2*,-100,199,n,0,0,0,0,0,0,0,0,0,0,no,checked,1,0.0078125,0,0
+Valley of Oaxaca,MxAlb3A,200,499,n,0,0,0,0,0,0,0,0,0,0,no,checked,1,0.0078125,0,0
+Valley of Oaxaca,MxAlb3B,500,899,n,0,0,0,0,0,0,0,0,0,0,no,checked,1,0.0078125,0,0
+Valley of Oaxaca,MxAlb5*,900,1520,n,0,0,0,0,0,0,0,0,0,0,no,checked,1,0.0078125,0,0
+Cahokia,USMisEW,-600,-151,n,0,0,0,0,0,0,0,0,0,0,no,checked,1,0.0078125,0,0
+Cahokia,USMisMW,-150,299,n,0,0,0,0,0,0,0,0,0,0,no,checked,1,0.0078125,0,0
+Cahokia,USMisRo,300,449,n,0,0,0,0,0,0,0,0,0,0,no,checked,1,0.0078125,0,0
+Cahokia,USMisMu,450,599,n,0,0,0,0,0,0,0,0,0,0,no,checked,1,0.0078125,0,0
+Cahokia,USMisPa,600,749,n,0,0,0,0,0,0,0,0,0,0,no,checked,1,0.0078125,0,0
+Cahokia,USMisSp,750,899,n,0,0,0,0,0,0,0,0,0,0,no,checked,1,0.0078125,0,0
+Cahokia,USMisME,900,1049,n,0,0,0,0,0,0,0,0,0,0,no,checked,1,0.0078125,0,0
+Cahokia,USCahoE,1050,1199,n,0,0,0,0,0,0,0,0,0,0,no,checked,1,0.0078125,0,0
+Cahokia,USCahoL,1200,1274,n,0,0,0,0,0,0,0,0,0,0,no,checked,1,0.0078125,0,0
+Cahokia,USMisSd,1275,1399,n,0,0,0,0,0,0,0,0,0,0,no,checked,1,0.0078125,0,0
+Cahokia,USOneot,1400,1639,n,0,0,0,0,0,0,0,0,0,0,no,checked,1,0.0078125,0,0
+Cahokia,USIllin,1640,1717,n,0,0,0,0,0,0,0,0,0,0,no,checked,0,0.0078125,0,0
+Finger Lakes,UsIroqE,1566,1713,n,0,0,1,0,0,0,0,0,0,0,no,checked,1,0.015625,1,1
+Finger Lakes,UsIroqL,1714,1848,n,0,0,1,0,0,0,0,0,0,0,no,checked,1,0.015625,1,1
+Cuzco,PeCuzLF,1,199,n,0,0,0,0,0,0,0,0,0,0,no,checked,1,0.0078125,0,0
+Cuzco,PeCuzE1,200,499,n,0,0,0,0,0,0,0,0,0,0,no,checked,1,0.0078125,0,0
+Cuzco,PeCuzE2,500,649,n,0,0,0,0,0,0,0,0,0,0,no,checked,1,0.0078125,0,0
+Cuzco,PeWari*,650,999,n,0,0,0,0,0,0,0,0,0,0,no,checked,1,0.0078125,0,0
+Cuzco,PeCuzL1,1000,1249,n,0,0,0,0,0,0,0,0,0,0,no,checked,1,0.0078125,0,0
+Cuzco,PeCuzL2,1250,1399,n,0,0,0,0,0,0,0,0,0,0,no,checked,1,0.0078125,0,0
+Cuzco,PeInca*,1400,1531,n,0,0,0,0,0,0,0,0,0,0,no,checked,1,0.0078125,0,0
+Cuzco,EsHabsb,1532,1700,n,1,1,1,1,1,1,1,1,1,1,no,checked,0,1,7,1
+North Colombia,CoNahua,250,1049,n,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,yes,checked,0,NA,NA,NA
+North Colombia,CoTairo,1050,1524,n,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,yes,checked,0,NA,NA,NA
+Lowland Andes,EcJivaE,1534,1830,n,0,0,0,0,0,0,0,0,0,0,no,checked,0,0.0078125,0,0
+Lowland Andes,EcJivaL,1831,1931,n,0,0,0,0,0,0,0,0,0,0,no,checked,0,0.0078125,0,0
+Basin of Mexico,MxArch*,-6000,-2001,n,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,checked,0,NA,NA,NA
+Basin of Mexico,MxInitl,-2000,-1201,n,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,checked,0,NA,NA,NA
+Basin of Mexico,MxFormE,-1200,-801,n,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,checked,0,NA,NA,NA
+Basin of Mexico,MxFormM,-800,-401,n,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,checked,0,NA,NA,NA
+Basin of Mexico,MxFormL,-400,-101,n,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,NA,1,yes,checked,0,0.133483887,3.5,1
+Basin of Mexico,MxFormT,-100,99,n,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,NA,1,yes,checked,0,0.133483887,3.5,1
+Basin of Mexico,MxClass,100,649,n,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,NA,1,yes,checked,0,0.133483887,3.5,1
+Basin of Mexico,MxEpicl,650,899,n,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,NA,1,yes,checked,0,0.133483887,3.5,1
+Basin of Mexico,MxToltc,900,1199,n,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,1,yes,checked,0,0.133483887,3.5,1
+Basin of Mexico,MxPostM,1200,1426,n,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,1,yes,checked,0,0.133483887,3.5,1
+Basin of Mexico,MxAztec,1427,1519,n,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,0.5,1,yes,checked,0,0.133483887,3.5,1
+Middle Ganga,InGangN,-7000,-3001,n,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,checked,0,NA,NA,NA
+Middle Ganga,InGangC,-3000,-1501,n,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,no,checked,0,NA,NA,NA
+Middle Ganga,InGangC,-1500,-601,n,0,0,0.5,1,1,1,0.5,0,NA,1,no,checked,0,0.140625,4,1
+Middle Ganga,InMahaJ,-600,-325,n,0,0,0.5,1,1,1,1,0,NA,1,no,checked,0,0.1875,4.5,1
+Middle Ganga,InSunga,-187,-65,n,1,1,1,1,1,1,1,1,0,0,no,checked,0,1,7,1
+Middle Ganga,InAyodE,-64,34,n,1,1,1,1,1,1,1,1,0,0,no,checked,0,1,7,1
+Middle Ganga,InGupta,320,514,n,1,1,1,1,1,1,1,1,0,0,no,checked,0,1,7,1
+Middle Ganga,InMagad,550,606,n,1,1,1,1,1,1,1,1,0,0,no,checked,0,1,7,1
+Middle Ganga,InKanau,650,779,n,1,1,1,1,1,1,1,1,0,0,no,checked,0,1,7,1
+Middle Ganga,InGurjr,810,1030,n,1,1,1,1,1,1,1,1,0,0,no,checked,0,1,7,1
+Middle Ganga,InGhdvl,1090,1202,n,1,1,1,1,1,1,1,1,0,0,no,checked,0,1,7,1

@@ -1,0 +1,429 @@
+Date.From,NGA,1. Moralistic punishment,2. Moralizing norms,3. Promotion of prosociality,4. Omniscient supernatural beings,5. Rulers not gods,6. Equating elites and commoners,7. Equating rulers and commoners,8. Formal legal code,9. General applicability of law,10. Constraint on executive,11. Full-time bureaucrats,12. Impeachment,sum
+200,Cambodian Basin,0,1,1,NA,1,0,0,1,1,1,1,0,7
+300,Cambodian Basin,0,1,1,NA,1,0,0,1,1,1,1,0,7
+400,Cambodian Basin,0,1,1,NA,1,0,0,1,1,1,1,0,7
+500,Cambodian Basin,0,1,1,NA,1,0,0,1,1,1,1,0,7
+600,Cambodian Basin,0,1,1,NA,0,0,0,1,1,1,1,0,6
+700,Cambodian Basin,0,1,1,NA,0,0,0,1,1,1,1,0,6
+800,Cambodian Basin,0,1,1,NA,0,0,0,1,1,0,1,0,5
+900,Cambodian Basin,0,1,1,NA,0,0,0,1,1,0,1,0,5
+1000,Cambodian Basin,0,1,1,NA,0,0,0,1,1,0,1,0,5
+1100,Cambodian Basin,0,1,1,NA,0,0.5,0.5,1,1,0,1,0,6
+1200,Cambodian Basin,1,1,1,0,1,0,0,1,1,0,1,0,7
+1300,Cambodian Basin,1,1,1,0,1,0,0,1,1,0,1,0,7
+1400,Cambodian Basin,1,1,1,0,1,0,0,1,1,0,1,0,7
+1500,Cambodian Basin,1,1,1,0,1,0,0,1,1,0,1,0,7
+1600,Cambodian Basin,0,1,1,0,1,0,0,1,1,1,1,0,7
+1700,Cambodian Basin,0,1,1,0,1,0,0,1,1,1,1,0,7
+1800,Cambodian Basin,0,1,1,0,1,0,0,1,1,1,1,0,7
+-1900,Crete,NA,NA,NA,NA,NA,0,0,0,NA,NA,1,NA,1
+-1800,Crete,NA,NA,NA,NA,NA,0,0,0,NA,NA,1,NA,1
+-1700,Crete,NA,NA,NA,NA,0,0,0,0,NA,NA,1,NA,1
+-1600,Crete,NA,NA,NA,NA,0,0,0,0,NA,NA,1,NA,1
+-1500,Crete,NA,NA,NA,NA,0,0,0,0,NA,NA,1,NA,1
+-1400,Crete,NA,NA,NA,NA,1,0,0,0,NA,NA,1,NA,2
+-1300,Crete,NA,NA,NA,NA,1,0,0,0,NA,NA,1,NA,2
+-1200,Crete,NA,NA,NA,NA,1,0,0,0,NA,NA,1,NA,2
+-1100,Crete,NA,NA,NA,NA,1,0,0,0,NA,NA,1,NA,2
+-1000,Crete,0,1,1,0,1,0,0,1,1,1,0,1,7
+-900,Crete,0,1,1,0,1,0,0,1,1,1,0,1,7
+-800,Crete,0,1,1,0,1,0,0,1,1,1,0,1,7
+-700,Crete,0,0,0,0,1,0,0,1,1,1,1,1,6
+-600,Crete,0,0,0,0,1,0,0,1,1,1,1,1,6
+-500,Crete,0,0,1,0,1,0,0,1,1,1,1,1,7
+-400,Crete,0,0,1,0,1,0,0,1,1,1,1,1,7
+-300,Crete,0,0,1,0,1,0,0,1,1,1,1,1,7
+-200,Crete,0,0,1,0,1,0,0,1,1,1,1,1,7
+-100,Crete,0,1,1,0,1,0,0,1,1,1,0,1,7
+0,Crete,0,1,0,0,0.5,0.5,0,1,1,1,1,1,7
+100,Crete,0,1,0,0,0.5,0.5,0,1,1,1,1,1,7
+200,Crete,0,1,0,0,0.5,0.5,0,1,1,1,1,1,7
+300,Crete,0,1,1,0.5,1,0.5,1,1,1,0,1,0,8
+400,Crete,1,1,1,1,0,0.5,0,1,1,0,1,0,7.5
+500,Crete,1,1,1,1,0,0.5,0,1,1,0,1,0,7.5
+600,Crete,1,1,1,1,0,0.5,0,1,1,0,1,0,7.5
+700,Crete,1,1,1,1,0,0.5,0,1,1,0,1,0,7.5
+800,Crete,1,1,1,1,0,0.5,0,1,1,0,1,0,7.5
+900,Crete,1,1,1,1,0,0.5,0,1,1,0,1,0,7.5
+1000,Crete,1,1,1,1,0,0.5,0,1,1,0,1,0,7.5
+1100,Crete,1,1,1,1,0,0.5,0,1,1,0,1,0,7.5
+1200,Crete,1,1,1,1,0,0.5,0,1,1,0,1,0,7.5
+1300,Crete,1,1,1,1,0,0.5,0,1,1,0,1,0,7.5
+1400,Crete,1,1,1,1,0,0.5,0,1,1,0,1,0,7.5
+1500,Crete,0.5,1,1,1,1,1,1,1,1,0,1,0,9.5
+1600,Crete,0.5,1,1,1,1,1,1,1,1,0,1,0,9.5
+1700,Crete,0.5,1,1,1,1,1,1,1,1,0,1,0,9.5
+1800,Crete,0.5,1,1,1,1,1,1,1,1,0,1,0,9.5
+-1600,Galilee,0,1,1,0,0,1,0,1,1,0.5,1,0,6.5
+-1500,Galilee,0,1,1,0,0,1,0,1,1,0.5,1,0,6.5
+-1400,Galilee,0,1,1,0,0,1,0,1,1,0.5,1,0,6.5
+-1300,Galilee,0,1,1,0,0,1,0,1,1,0.5,1,0,6.5
+-1200,Galilee,0,1,1,0,0,1,0,1,1,0.5,1,0,6.5
+-1100,Galilee,0,1,1,0,0,1,0,1,1,0.5,1,0,6.5
+-1000,Galilee,0.5,1,1,0.5,1,0,0,1,1,0.5,0.5,0.5,7.5
+-900,Galilee,0.5,1,1,0.5,1,0,0,1,1,0.5,0.5,0.5,7.5
+-800,Galilee,0.5,1,1,0.5,1,0,0,1,1,0.5,0.5,0.5,7.5
+-700,Galilee,0.5,1,1,0,0,1,0,0.5,1,1,1,0,7
+-600,Galilee,0,1,1,1,1,0.5,0,1,1,0.5,1,0,8
+-500,Galilee,0,1,1,1,1,0,0,1,1,0,1,0,7
+-400,Galilee,0,1,1,1,1,0,0,1,1,0,1,0,7
+-300,Galilee,0,1,1,0,0,0.6,1,1,1,0,1,0,6.6
+-200,Galilee,0,1,1,0,0,1,1,1,1,0,1,0,7
+-100,Galilee,0.5,1,1,0,1,0,0,1,1,1,0,1,7.5
+0,Galilee,0.5,1,0,0,0.5,0.5,0,1,1,1,1,1,7.5
+100,Galilee,0.5,1,0,0,0.5,0.5,0,1,1,1,1,1,7.5
+200,Galilee,0.5,1,0,0,0.5,0.5,0,1,1,1,1,1,7.5
+300,Galilee,0.5,1,1,0.5,1,0.5,1,1,1,0,1,0,8.5
+400,Galilee,1,1,1,1,0,0.5,0,1,1,0,1,0,7.5
+500,Galilee,1,1,1,1,1,1,1,0.5,1,1,1,0,10.5
+600,Galilee,1,1,1,1,0,1,0,1,1,1,1,0,9
+700,Galilee,0.5,1,1,1,1,1,1,1,1,1,0.5,0,10
+800,Galilee,0.5,1,1,1,1,1,1,1,1,1,1,0,10.5
+900,Galilee,0.5,1,1,1,1,1,1,1,1,0,1,0,9.5
+1000,Galilee,0.5,1,1,1,1,1,1,1,1,1,1,0,10.5
+1100,Galilee,0.5,1,1,1,1,1,1,1,1,1,1,0,10.5
+1200,Galilee,0.5,1,1,1,1,1,1,1,1,1,1,0,10.5
+1300,Galilee,0.5,1,1,1,1,1,1,1,1,1,1,0,10.5
+1400,Galilee,0.5,1,1,1,1,1,1,1,1,1,1,0,10.5
+1500,Galilee,0.5,1,1,1,1,1,1,1,1,1,1,0,10.5
+1600,Galilee,0.5,1,1,1,1,1,1,1,1,1,1,0,10.5
+1700,Galilee,0.5,1,1,1,1,1,1,1,1,1,1,0,10.5
+-2500,Kachi Plain,NA,1,NA,NA,NA,1,1,0,NA,0,1,0,4
+-2400,Kachi Plain,NA,1,NA,NA,NA,1,1,0,NA,0,1,0,4
+-2300,Kachi Plain,NA,1,NA,NA,NA,1,1,0,NA,0,1,0,4
+-2200,Kachi Plain,NA,1,NA,NA,NA,1,1,0,NA,0,1,0,4
+-2100,Kachi Plain,NA,1,NA,NA,NA,1,1,0,NA,0,1,0,4
+-2000,Kachi Plain,NA,1,NA,NA,NA,1,1,0,NA,0,1,0,4
+-1900,Kachi Plain,NA,1,NA,NA,NA,1,1,0,NA,0,1,0,4
+-1800,Kachi Plain,NA,1,NA,NA,NA,1,1,0,NA,0,1,0,4
+-1700,Kachi Plain,NA,1,NA,NA,NA,1,1,0,NA,0,1,0,4
+-1600,Kachi Plain,NA,1,NA,NA,NA,1,1,0,NA,0,1,0,4
+-1500,Kachi Plain,NA,1,NA,NA,NA,1,1,0,NA,0,1,0,4
+-1400,Kachi Plain,NA,1,NA,NA,NA,1,1,0,NA,0,1,0,4
+-1300,Kachi Plain,NA,1,NA,NA,NA,1,1,0,NA,0,1,0,4
+-1200,Kachi Plain,NA,1,NA,NA,NA,1,1,0,NA,0,1,0,4
+-1100,Kachi Plain,NA,1,NA,NA,NA,1,1,0,NA,0,1,0,4
+-1000,Kachi Plain,NA,1,NA,NA,NA,1,1,0,NA,0,1,0,4
+-900,Kachi Plain,NA,1,NA,NA,NA,1,1,0,NA,0,1,0,4
+-800,Kachi Plain,NA,1,NA,NA,NA,1,1,0,NA,0,1,0,4
+-700,Kachi Plain,NA,1,NA,NA,NA,1,1,0,NA,0,1,0,4
+-600,Kachi Plain,0,1,1,1,1,0,0,1,1,0,1,0,7
+-500,Kachi Plain,0,1,1,1,1,0,0,1,1,0,1,0,7
+-400,Kachi Plain,0,1,1,1,1,0,0,1,1,0,1,0,7
+-300,Kachi Plain,0,1,1,0,1,1,0,1,1,0,1,0,7
+-200,Kachi Plain,0,1,1,0,0,1,1,1,1,0,1,0,7
+-100,Kachi Plain,0,1,1,0,0,0,0,1,1,0,1,0,5
+0,Kachi Plain,0,1,1,0.5,0,0,0,1,1,0,1,0,5.5
+100,Kachi Plain,0,1,1,0.5,0,0,0,1,1,0,1,0,5.5
+200,Kachi Plain,1,1,1,1,0.5,1,1,0.5,1,1,1,0,10
+300,Kachi Plain,1,1,1,1,0.5,1,1,0.5,1,1,1,0,10
+400,Kachi Plain,0,1,1,0.5,0.5,0,1,0.5,1,1,0.5,0,7
+500,Kachi Plain,0,1,1,1,1,1,1,0.5,1,1,1,0,9.5
+600,Kachi Plain,0,1,1,1,1,1,1,0.5,1,1,1,0,9.5
+700,Kachi Plain,0,1,1,1,1,1,1,1,1,1,0.5,0,9.5
+800,Kachi Plain,0,1,1,1,1,1,1,1,1,1,1,0,10
+900,Kachi Plain,0,1,1,1,1,1,1,1,1,1,1,0,10
+1000,Kachi Plain,0,1,1,1,1,1,1,1,1,1,1,0,10
+1100,Kachi Plain,0,1,1,1,1,1,1,1,1,1,1,0,10
+1200,Kachi Plain,0,1,1,1,1,1,1,1,1,1,1,0,10
+1300,Kachi Plain,0,1,1,1,1,1,1,1,1,1,1,0,10
+1400,Kachi Plain,0,1,1,1,1,1,1,1,1,1,1,0,10
+1500,Kachi Plain,0,1,1,1,1,1,1,1,1,1,1,0,10
+1600,Kachi Plain,0,1,1,1,1,1,1,1,1,1,1,0,10
+1700,Kachi Plain,0,1,1,1,1,1,1,1,1,1,0.5,0,9.5
+-5300,Kansai,NA,NA,NA,NA,NA,0,0,0,NA,NA,0,NA,0
+-5200,Kansai,NA,NA,NA,NA,NA,0,0,0,NA,NA,0,NA,0
+-5100,Kansai,NA,NA,NA,NA,NA,0,0,0,NA,NA,0,NA,0
+-5000,Kansai,NA,NA,NA,NA,NA,0,0,0,NA,NA,0,NA,0
+-4900,Kansai,NA,NA,NA,NA,NA,0,0,0,NA,NA,0,NA,0
+-4800,Kansai,NA,NA,NA,NA,NA,0,0,0,NA,NA,0,NA,0
+-4700,Kansai,NA,NA,NA,NA,NA,0,0,0,NA,NA,0,NA,0
+-4600,Kansai,NA,NA,NA,NA,NA,0,0,0,NA,NA,0,NA,0
+-4500,Kansai,NA,NA,NA,NA,NA,0,0,0,NA,NA,0,NA,0
+-4400,Kansai,NA,NA,NA,NA,NA,0,0,0,NA,NA,0,NA,0
+-4300,Kansai,NA,NA,NA,NA,NA,0,0,0,NA,NA,0,NA,0
+-4200,Kansai,NA,NA,NA,NA,NA,0,0,0,NA,NA,0,NA,0
+-4100,Kansai,NA,NA,NA,NA,NA,0,0,0,NA,NA,0,NA,0
+-4000,Kansai,NA,NA,NA,NA,NA,0,0,0,NA,NA,0,NA,0
+-3900,Kansai,NA,NA,NA,NA,NA,0,0,0,NA,NA,0,NA,0
+-3800,Kansai,NA,NA,NA,NA,NA,0,0,0,NA,NA,0,NA,0
+-3700,Kansai,NA,NA,NA,NA,NA,0,0,0,NA,NA,0,NA,0
+-3600,Kansai,NA,NA,NA,NA,NA,0,0,0,NA,NA,0,NA,0
+-3500,Kansai,NA,NA,NA,NA,NA,0,0,0,NA,NA,0,NA,0
+-3400,Kansai,NA,NA,NA,NA,NA,0,0,0,NA,NA,0,NA,0
+-3300,Kansai,NA,NA,NA,NA,NA,0,0,0,NA,NA,0,NA,0
+-3200,Kansai,NA,NA,NA,NA,NA,0,0,0,NA,NA,0,NA,0
+-3100,Kansai,NA,NA,NA,NA,NA,0,0,0,NA,NA,0,NA,0
+-3000,Kansai,NA,NA,NA,NA,NA,0,0,0,NA,NA,0,NA,0
+-2900,Kansai,NA,NA,NA,NA,NA,0,0,0,NA,NA,0,NA,0
+-2800,Kansai,NA,NA,NA,NA,NA,0,0,0,NA,NA,0,NA,0
+-2700,Kansai,NA,NA,NA,NA,NA,0,0,0,NA,NA,0,NA,0
+-2600,Kansai,NA,NA,NA,NA,NA,0,0,0,NA,NA,0,NA,0
+-2500,Kansai,NA,NA,NA,NA,NA,0,0,0,NA,NA,0,NA,0
+-2400,Kansai,NA,NA,NA,NA,NA,0,0,0,NA,NA,0,NA,0
+-2300,Kansai,NA,NA,NA,NA,NA,0,0,0,NA,NA,0,NA,0
+-2200,Kansai,NA,NA,NA,NA,NA,0,0,0,NA,NA,0,NA,0
+-2100,Kansai,NA,NA,NA,NA,NA,0,0,0,NA,NA,0,NA,0
+-2000,Kansai,NA,NA,NA,NA,NA,0,0,0,NA,NA,0,NA,0
+-1900,Kansai,NA,NA,NA,NA,NA,0,0,0,NA,NA,0,NA,0
+-1800,Kansai,NA,NA,NA,NA,NA,0,0,0,NA,NA,0,NA,0
+-1700,Kansai,NA,NA,NA,NA,NA,0,0,0,NA,NA,0,NA,0
+-1600,Kansai,NA,NA,NA,NA,NA,0,0,0,NA,NA,0,NA,0
+-1500,Kansai,NA,NA,NA,NA,NA,0,0,0,NA,NA,0,NA,0
+-1400,Kansai,NA,NA,NA,NA,NA,0,0,0,NA,NA,0,NA,0
+-1300,Kansai,NA,NA,NA,NA,NA,0,0,0,NA,NA,0,NA,0
+-1200,Kansai,NA,NA,NA,NA,NA,0,0,0,NA,NA,0,NA,0
+-1100,Kansai,NA,NA,NA,NA,NA,0,0,0,NA,NA,0,NA,0
+-1000,Kansai,NA,NA,NA,NA,NA,0,0,0,NA,NA,0,NA,0
+-900,Kansai,NA,NA,NA,NA,NA,0,0,0,NA,NA,0,NA,0
+-800,Kansai,NA,NA,NA,NA,NA,0,0,0,NA,NA,0,NA,0
+-700,Kansai,NA,NA,NA,NA,NA,0,0,0,NA,NA,0,NA,0
+-600,Kansai,NA,NA,NA,NA,NA,0,0,0,NA,NA,0,NA,0
+-500,Kansai,NA,NA,NA,NA,NA,0,0,0,NA,NA,0,NA,0
+-400,Kansai,NA,NA,NA,NA,NA,0,0,0,NA,NA,0,NA,0
+-300,Kansai,NA,NA,NA,NA,NA,0,0,0,0.5,NA,0,NA,0.5
+-200,Kansai,NA,NA,NA,NA,NA,0,0,0,0.5,NA,0,NA,0.5
+-100,Kansai,NA,NA,NA,NA,NA,0,0,0,0.5,NA,0,NA,0.5
+0,Kansai,NA,NA,NA,NA,NA,0,0,0,0.5,NA,0,NA,0.5
+100,Kansai,NA,NA,NA,NA,NA,0,0,0,0.5,NA,0,NA,0.5
+200,Kansai,NA,NA,1,0,0,0,0,0,0.5,NA,0.5,NA,2
+300,Kansai,NA,NA,1,0,0,0,0,0,0.5,NA,0.5,NA,2
+400,Kansai,NA,NA,1,0,0,0,0,0,0.5,NA,0.5,NA,2
+500,Kansai,NA,1,0,0,0,1,0,1,0.5,NA,1,NA,4.5
+600,Kansai,NA,1,1,0,0,1,0,1,0.5,NA,1,NA,5.5
+700,Kansai,NA,1,1,0,0,1,0,1,0.5,NA,1,NA,5.5
+800,Kansai,NA,1,1,0,0,1,0,1,1,NA,1,NA,6
+900,Kansai,NA,1,1,0,0,1,0,1,1,NA,1,NA,6
+1000,Kansai,NA,1,1,0,0,1,0,1,1,NA,1,NA,6
+1100,Kansai,NA,1,1,0,0,1,0,1,1,NA,1,NA,6
+1200,Kansai,NA,1,1,0,0,1,0,1,1,NA,1,NA,6
+1300,Kansai,NA,1,1,0,0,1,0,1,1,1,1,0,7
+1400,Kansai,NA,1,1,0,0,1,0,1,1,1,1,0,7
+1500,Kansai,NA,1,1,0,0,1,0,1,1,1,1,0,7
+1600,Kansai,NA,1,1,0,0,0,0,1,1,1,1,0,6
+-2000,Konya Plain,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,0
+-1900,Konya Plain,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,0
+-1800,Konya Plain,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,0
+-1700,Konya Plain,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,0
+-1600,Konya Plain,0,NA,NA,NA,NA,NA,NA,1,NA,NA,1,NA,2
+-1500,Konya Plain,0,NA,NA,NA,NA,NA,NA,1,NA,NA,1,NA,2
+-1400,Konya Plain,0,1,NA,0,NA,NA,NA,1,NA,NA,1,1,4
+-1300,Konya Plain,0,1,NA,0,1,NA,0,1,1,0,1,0,5
+-1200,Konya Plain,0,1,NA,0,1,NA,0,1,1,0,1,0,5
+-1100,Konya Plain,0,1,1,0,1,NA,0,1,1,0,1,0,6
+-1000,Konya Plain,0,1,1,0,1,0,0,1,1,1,0,1,7
+-900,Konya Plain,0,1,1,0,1,0,0,1,1,1,1,1,8
+-800,Konya Plain,0,1,1,0,1,0,0,1,1,1,1,1,8
+-700,Konya Plain,0,1,1,1,1,0,0,1,1,1,1,1,9
+-600,Konya Plain,0,1,1,1,1,0,0,1,1,0,1,0,7
+-500,Konya Plain,0,1,1,1,1,0,0,1,1,0,1,0,7
+-400,Konya Plain,0,1,1,0,1,0,0,1,1,0,1,0,6
+-300,Konya Plain,0,1,1,0,0,1,1,1,1,0,1,0,7
+-200,Konya Plain,0,1,1,0,0,1,1,1,1,0,1,0,7
+-100,Konya Plain,0,1,0,0,1,0,0,1,1,1,0,1,6
+0,Konya Plain,0,1,0,0,0.5,0.5,0,1,1,1,1,1,7
+100,Konya Plain,0,1,0,0,0.5,0.5,0,1,1,1,1,1,7
+200,Konya Plain,0,1,1,0.5,0.5,0.5,0,1,1,1,1,1,8.5
+300,Konya Plain,0,1,1,1,1,0.5,1,1,1,0,1,0,8.5
+400,Konya Plain,0.5,1,1,1,0,0.5,0,1,1,0,1,0,7
+500,Konya Plain,0.5,1,1,1,1,1,1,0.5,1,1,1,0,10
+600,Konya Plain,0.5,1,1,1,0,1,0,1,1,1,1,0,8.5
+700,Konya Plain,0.5,1,1,1,0,1,0,1,1,1,1,0,8.5
+800,Konya Plain,0.5,1,1,1,0,1,0,1,1,1,1,0,8.5
+900,Konya Plain,1,1,1,1,0,1,0,1,1,1,1,0,9
+1000,Konya Plain,1,1,1,1,0,1,0,1,1,1,1,0,9
+1100,Konya Plain,0.5,1,1,1,1,1,1,1,1,1,1,0,10.5
+1200,Konya Plain,0.5,1,1,0.5,1,1,1,0,1,1,1,0,9
+1300,Konya Plain,0.5,1,1,1,1,1,0.5,1,1,1,1,0,10
+1400,Konya Plain,0.5,1,1,1,1,1,1,1,1,1,0.5,0,10
+1500,Konya Plain,0.5,1,1,1,1,1,1,1,1,1,1,0,10.5
+1600,Konya Plain,0.5,1,1,1,1,1,1,1,1,1,1,0,10.5
+1700,Konya Plain,0.5,1,1,1,1,1,1,1,1,1,1,0,10.5
+1800,Konya Plain,0.5,1,1,1,1,1,1,1,1,1,1,0,10.5
+-1000,Latium,0,1,1,0,1,0,0,0.5,1,1,0,1,6.5
+-900,Latium,0,1,1,0,1,0,0,0.5,1,1,0,1,6.5
+-800,Latium,0,1,1,0,1,0,0,0.5,1,1,0,1,6.5
+-700,Latium,0,1,1,0,1,0,0,0.5,1,1,0,1,6.5
+-600,Latium,0,1,1,0,1,0,0,1,1,1,0,1,7
+-500,Latium,0,1,1,0,1,0,0,1,1,1,0,1,7
+-400,Latium,0,1,1,0,1,0,0,1,1,1,0,1,7
+-300,Latium,0,1,1,0,1,0,0,1,1,1,0,1,7
+-200,Latium,0,1,1,0,1,0,0,1,1,1,0,1,7
+-100,Latium,0,1,1,0,1,0,0,1,1,1,0,1,7
+0,Latium,0,1,0,0,0.5,0.5,0,1,1,1,1,1,7
+100,Latium,0,1,0,0,0.5,0.5,0,1,1,1,1,1,7
+200,Latium,0,1,0,0,0.5,0.5,0,1,1,1,1,1,7
+300,Latium,0,1,1,0.5,1,0.5,1,1,1,1,1,0,9
+400,Latium,0.5,1,1,1,0,0.5,0,1,1,1,1,0,8
+500,Latium,0.5,1,1,1,0.5,0.5,0.5,1,1,1,1,0,9
+600,Latium,0.5,1,1,1,0,0.5,0.5,1,1,1,1,1,9.5
+700,Latium,0.5,1,1,1,1,0,0,1,1,1,1,1,9.5
+800,Latium,0.5,1,1,1,1,0,0,1,1,1,1,1,9.5
+900,Latium,0.5,1,1,1,1,0,0,1,1,1,1,1,9.5
+1000,Latium,0.5,1,1,1,1,0,0,1,1,1,1,1,9.5
+1100,Latium,0.5,1,1,1,1,0,0,1,1,1,1,1,9.5
+1200,Latium,0.5,1,1,1,1,0,0,1,1,1,1,1,9.5
+1300,Latium,0.5,1,1,1,1,0,0,1,1,1,1,1,9.5
+1400,Latium,0.5,1,1,1,1,0,0,1,1,1,1,1,9.5
+1500,Latium,0.5,1,1,1,1,0,0,1,1,1,1,1,9.5
+1600,Latium,0.5,1,1,1,1,0,0,1,1,1,1,1,9.5
+-2000,Middle Yellow River Valley,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,0
+-1900,Middle Yellow River Valley,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,0,NA,0
+-1800,Middle Yellow River Valley,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,1,NA,1
+-1700,Middle Yellow River Valley,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,1,NA,1
+-1600,Middle Yellow River Valley,NA,NA,1,NA,NA,0,0,0,NA,NA,1,NA,2
+-1500,Middle Yellow River Valley,NA,NA,1,NA,NA,0,0,0,NA,NA,1,NA,2
+-1400,Middle Yellow River Valley,NA,NA,1,NA,NA,0,0,0,NA,NA,1,NA,2
+-1300,Middle Yellow River Valley,NA,NA,1,NA,NA,0,0,0,NA,NA,1,NA,2
+-1200,Middle Yellow River Valley,NA,1,1,0,1,0,0,0,0,0,1,0,4
+-1100,Middle Yellow River Valley,0,1,1,0,1,0,0,1,0,1,1,0,6
+-1000,Middle Yellow River Valley,0,1,1,0,1,0,0,1,0,1,1,0,6
+-900,Middle Yellow River Valley,0,1,1,0,1,0,0,1,0,1,1,0,6
+-800,Middle Yellow River Valley,0,1,0,0,1,0,0,1,0.5,0,1,0,4.5
+-700,Middle Yellow River Valley,0,1,0,0,1,0,0,1,0.5,0,1,0,4.5
+-600,Middle Yellow River Valley,0,1,0,0,1,0,0,1,0.5,0,1,0,4.5
+-500,Middle Yellow River Valley,0,1,0,0,1,0,0,1,0.5,0,1,1,5.5
+-400,Middle Yellow River Valley,0,1,0,0,1,0,0,1,0.5,0,1,1,5.5
+-300,Middle Yellow River Valley,0,1,0,0,1,0,0,1,0.5,0,1,1,5.5
+-200,Middle Yellow River Valley,0,1,1,0,0,0,0,1,1,0,1,0,5
+-100,Middle Yellow River Valley,0,1,1,0,0,0,0,1,1,0,1,0,5
+0,Middle Yellow River Valley,0,1,1,0,0,0,0,1,1,0,1,0,5
+100,Middle Yellow River Valley,0,1,1,0,0,0,0,1,1,0,1,0,5
+200,Middle Yellow River Valley,0,1,1,0,0,0,0,1,1,0,1,0,5
+300,Middle Yellow River Valley,0,1,1,0,0,0,0,1,1,0,1,0,5
+400,Middle Yellow River Valley,0,1,1,0,0,0,0,1,1,0,1,0,5
+500,Middle Yellow River Valley,0,1,1,0,0,0,0,1,1,0,1,0,5
+600,Middle Yellow River Valley,0,1,1,0,0,0,0,1,1,0,1,0,5
+700,Middle Yellow River Valley,0,1,1,0,0,0,0,1,1,0,1,0,5
+800,Middle Yellow River Valley,0,1,1,0,0,0,0,1,1,0,1,0,5
+900,Middle Yellow River Valley,0,1,1,0,0,0,0,1,1,0,1,0,5
+1000,Middle Yellow River Valley,0,1,1,0,0,0,0,1,1,0,1,0,5
+1100,Middle Yellow River Valley,0,1,1,0,0,0,0,1,1,0,1,0,5
+1200,Middle Yellow River Valley,0,1,1,0,0,0,0,0,1,1,1,0,5
+1300,Middle Yellow River Valley,0,1,1,0,1,0.5,0,1,1,1,1,0,7.5
+1400,Middle Yellow River Valley,0,1,1,0,1,1,0,1,1,0,1,0,7
+1500,Middle Yellow River Valley,0,1,1,0,1,1,0,1,1,0,1,0,7
+1600,Middle Yellow River Valley,0,1,1,0,1,1,0,1,1,1,1,0,8
+1700,Middle Yellow River Valley,0,1,1,0,1,1,0,1,1,1,1,0,8
+1800,Middle Yellow River Valley,0,1,1,0,1,1,0,1,1,1,1,0,8
+-3900,Susiana,NA,NA,NA,NA,NA,0,0,0,NA,NA,0.5,NA,0.5
+-3800,Susiana,NA,NA,NA,NA,NA,0,0,0,NA,NA,1,NA,1
+-3700,Susiana,NA,NA,NA,NA,NA,0,0,0,NA,NA,1,NA,1
+-3600,Susiana,NA,NA,NA,NA,NA,0,0,0,NA,NA,1,NA,1
+-3500,Susiana,NA,NA,NA,NA,NA,0,0,0,NA,NA,1,NA,1
+-3400,Susiana,NA,NA,NA,NA,NA,0,0,0,NA,NA,1,NA,1
+-3300,Susiana,NA,NA,NA,NA,NA,0,0,0,NA,NA,1,NA,1
+-3200,Susiana,NA,NA,NA,NA,NA,0,0,0,NA,NA,1,NA,1
+-3100,Susiana,NA,NA,NA,NA,NA,0,0,0,NA,NA,1,NA,1
+-3000,Susiana,NA,NA,NA,NA,NA,0,0,0,NA,NA,1,NA,1
+-2900,Susiana,NA,NA,NA,NA,NA,0,0,0,NA,NA,1,NA,1
+-2800,Susiana,NA,NA,NA,NA,NA,0,0,0,NA,NA,1,NA,1
+-2700,Susiana,NA,NA,NA,NA,NA,0,0,0.5,NA,NA,1,NA,1.5
+-2600,Susiana,NA,NA,NA,NA,NA,0,0,0.5,NA,NA,1,NA,1.5
+-2500,Susiana,NA,NA,NA,NA,NA,0,0,0.5,NA,NA,1,NA,1.5
+-2400,Susiana,NA,NA,NA,NA,NA,0,0,0.5,NA,NA,1,NA,1.5
+-2300,Susiana,NA,NA,NA,NA,NA,0,0,0.5,NA,NA,1,NA,1.5
+-2200,Susiana,0,1,NA,NA,NA,0,0,0,NA,NA,1,NA,2
+-2100,Susiana,0,1,NA,NA,NA,0,0,0,NA,NA,1,NA,2
+-2000,Susiana,0,1,NA,NA,NA,0,0,0,NA,NA,1,NA,2
+-1900,Susiana,0,1,NA,NA,NA,0,0,1,NA,NA,1,NA,3
+-1800,Susiana,0,1,NA,NA,NA,0,0,1,NA,NA,1,NA,3
+-1700,Susiana,0,1,NA,NA,NA,0,0,1,NA,NA,1,NA,3
+-1600,Susiana,0,1,NA,NA,NA,0,0,1,NA,NA,1,NA,3
+-1500,Susiana,0,1,1,NA,1,0,0,1,NA,NA,1,NA,5
+-1400,Susiana,0,1,1,NA,1,0,0,1,NA,NA,1,NA,5
+-1300,Susiana,0,1,1,NA,1,0,0,1,NA,NA,1,NA,5
+-1200,Susiana,0,1,1,NA,1,0,0,1,NA,NA,1,NA,5
+-1100,Susiana,0,1,1,NA,1,0,0,1,NA,NA,0,NA,4
+-1000,Susiana,0,1,1,NA,1,0,0,1,NA,NA,0,NA,4
+-900,Susiana,0,1,1,NA,1,0,0,1,NA,0,0,NA,4
+-800,Susiana,0,1,1,NA,1,0,0,1,NA,0,0,NA,4
+-700,Susiana,0,1,1,NA,1,0,0,0.5,NA,1,1,0,5.5
+-600,Susiana,0,1,1,1,1,0,0,1,1,0.5,1,0,7.5
+-500,Susiana,0,1,1,1,1,0,0,1,1,0,1,0,7
+-400,Susiana,0,1,1,1,1,0,0,1,1,0,1,0,7
+-300,Susiana,0,1,1,0,0,1,1,1,1,0,1,0,7
+-200,Susiana,0,1,1,0,0,1,1,1,1,0,1,0,7
+-100,Susiana,0,1,1,0,0,1,1,1,1,0,1,0,7
+0,Susiana,0,1,1,0,0,1,1,1,1,0,1,0,7
+100,Susiana,0,1,1,0,0,1,1,1,1,0,1,0,7
+200,Susiana,1,1,1,1,0.5,1,1,0.5,1,1,1,0,10
+300,Susiana,1,1,1,1,0.5,1,1,0.5,1,1,1,0,10
+400,Susiana,1,1,1,1,0.5,1,1,0.5,1,1,1,0,10
+500,Susiana,1,1,1,1,1,1,1,0.5,1,1,1,0,10.5
+600,Susiana,1,1,1,1,1,1,1,0.5,1,1,1,0,10.5
+700,Susiana,0,1,1,1,1,1,1,1,1,1,0.5,0,9.5
+800,Susiana,0,1,1,1,1,1,1,1,1,1,1,0,10
+900,Susiana,0,1,1,1,1,1,1,1,1,1,1,0,10
+1000,Susiana,0,1,1,1,1,1,1,1,1,1,1,0,10
+1100,Susiana,0,1,1,1,1,1,1,1,1,1,1,0,10
+1200,Susiana,0,1,1,1,1,1,1,0.5,1,1,1,0,9.5
+1300,Susiana,0,1,1,0.5,1,1,0.5,1,1,1,1,0,9
+1400,Susiana,0,1,1,1,1,1,1,1,1,1,1,0,10
+1500,Susiana,0,1,1,1,1,1,0,1,1,1,1,0,9
+1600,Susiana,0,1,1,1,1,1,0,1,1,1,1,0,9
+1700,Susiana,0,1,1,1,1,1,0,1,1,1,1,0,9
+1800,Susiana,0,1,1,1,1,1,1,1,1,1,1,0,10
+-4400,Upper Egypt,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+-4300,Upper Egypt,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+-4200,Upper Egypt,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+-4100,Upper Egypt,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+-4000,Upper Egypt,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+-3900,Upper Egypt,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+-3800,Upper Egypt,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+-3700,Upper Egypt,NA,NA,NA,NA,NA,NA,NA,0,0,0,0,0,0
+-3600,Upper Egypt,NA,1,NA,NA,0.5,0,NA,0,0,0,0,0,1.5
+-3500,Upper Egypt,NA,1,NA,NA,0.5,0,NA,0,0,0,0,0,1.5
+-3400,Upper Egypt,NA,1,NA,NA,0.5,0,NA,0,0,0,0.5,0,2
+-3300,Upper Egypt,NA,1,NA,NA,0.5,0,NA,0,0,0,1,0,2.5
+-3200,Upper Egypt,NA,1,NA,NA,0.5,0,NA,0,0,0,1,0,2.5
+-3100,Upper Egypt,NA,1,NA,0,0,1,0,0,1,0.5,1,0,4.5
+-3000,Upper Egypt,NA,1,NA,0,0,1,0,0,1,0.5,1,0,4.5
+-2900,Upper Egypt,NA,1,NA,0,0,1,0,0,1,0.5,1,0,4.5
+-2800,Upper Egypt,NA,1,NA,0,0,1,0,0,1,0.5,1,0,4.5
+-2700,Upper Egypt,NA,1,NA,0,0,1,0,0,1,0.5,1,0,4.5
+-2600,Upper Egypt,0,1,1,0,0,1,0,1,1,1,1,0,7
+-2500,Upper Egypt,0,1,1,0,0,1,0,1,1,1,1,0,7
+-2400,Upper Egypt,0,1,1,0,0,1,0,1,1,1,1,0,7
+-2300,Upper Egypt,0,1,1,0,0,1,0,1,1,1,1,0,7
+-2200,Upper Egypt,0,1,1,0.5,0,1,0,1,1,1,1,0,7.5
+-2100,Upper Egypt,0,1,1,0.5,0,1,0,1,1,1,1,0,7.5
+-2000,Upper Egypt,0,1,1,0,0,1,0,1,1,1,1,0,7
+-1900,Upper Egypt,0,1,1,0,0,1,0,1,1,1,1,0,7
+-1800,Upper Egypt,0,1,1,0,0,1,0,1,1,1,1,0,7
+-1700,Upper Egypt,0,1,1,0,0,1,0,1,1,1,1,0,7
+-1600,Upper Egypt,0,1,1,0,0,1,0,1,1,0.5,1,0,6.5
+-1500,Upper Egypt,0,1,1,0,0,1,0,1,1,0.5,1,0,6.5
+-1400,Upper Egypt,0,1,1,0,0,1,0,1,1,0.5,1,0,6.5
+-1300,Upper Egypt,0,1,1,0,0,1,0,1,1,0.5,1,0,6.5
+-1200,Upper Egypt,0,1,1,0,0,1,0,1,1,0.5,1,0,6.5
+-1100,Upper Egypt,0,1,1,0,0,1,0,1,1,1,1,0,7
+-1000,Upper Egypt,0,1,1,0,0,1,0,1,1,1,1,0,7
+-900,Upper Egypt,0,1,1,0,0,1,0,1,1,1,1,0,7
+-800,Upper Egypt,0,1,1,0,0,1,0,1,1,0,1,0,6
+-700,Upper Egypt,0,1,1,0,0,1,0,1,1,1,1,0,7
+-600,Upper Egypt,0,1,1,0.5,0.5,0.5,0,1,1,0.5,1,0,7
+-500,Upper Egypt,0,1,1,1,1,0,0,1,1,0,1,0,7
+-400,Upper Egypt,0,1,1,0,0,1,0,1,1,0,1,0,6
+-300,Upper Egypt,1,1,1,0,0.5,0,0,1,1,0,1,0,6.5
+-200,Upper Egypt,1,1,1,0,0,0,0,1,1,0,1,0,6
+-100,Upper Egypt,1,1,1,0,0,0,0,1,1,0,1,0,6
+0,Upper Egypt,1,1,0,0,0.5,0.5,0,1,1,1,1,1,8
+100,Upper Egypt,1,1,0,0,0.5,0.5,0,1,1,1,1,1,8
+200,Upper Egypt,1,1,0,0,0.5,0.5,0,1,1,1,1,1,8
+300,Upper Egypt,1,1,1,0.5,1,0.5,1,1,1,0,1,0,9
+400,Upper Egypt,1,1,1,1,0,0.5,0,1,1,0,1,0,7.5
+500,Upper Egypt,1,1,1,1,1,1,1,0.5,1,1,1,0,10.5
+600,Upper Egypt,1,1,1,1,0,1,0,1,1,1,1,0,9
+700,Upper Egypt,0,1,1,1,1,1,1,1,1,1,0.5,0,9.5
+800,Upper Egypt,0,1,1,1,1,1,1,1,1,1,1,0,10
+900,Upper Egypt,0,1,1,1,1,1,1,1,1,0,1,0,9
+1000,Upper Egypt,0,1,1,1,1,1,1,1,1,1,1,0,10
+1100,Upper Egypt,0,1,1,1,1,1,1,1,1,0.5,1,0,9.5
+1200,Upper Egypt,0,1,1,1,1,1,1,1,1,0.5,1,0,9.5
+1300,Upper Egypt,0,1,1,1,1,1,1,1,1,0.5,1,0,9.5
+1400,Upper Egypt,0,1,1,1,1,1,1,1,1,0.5,1,0,9.5
+1500,Upper Egypt,0,1,1,1,1,1,1,1,1,0.5,1,0,9.5
+1600,Upper Egypt,0,1,1,1,1,1,1,1,1,0.5,1,0,9.5
+1700,Upper Egypt,0,1,1,1,1,1,1,1,1,0.5,1,0,9.5
+1800,Upper Egypt,0,1,1,1,1,1,1,1,1,0.5,1,0,9.5
