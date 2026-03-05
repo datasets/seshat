@@ -1,0 +1,39 @@
+name: Update Seshat datasets
+
+on:
+  schedule:
+    - cron: "0 6 1 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Run updater
+        run: python scripts/update.py
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "actions@users.noreply.github.com"
+          git add agri_dataset.07.2020.csv axial_dataset.05.2018.csv mr_dataset.04.2021.csv CrisisConsequencesData_NavigatingPolycrisis_2023.03.csv sc_dataset.12.2017.xlsx
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Automated data update"
+            git push origin main
+          fi
